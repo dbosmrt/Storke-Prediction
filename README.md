@@ -5,3 +5,9 @@ I am still working in this project so there may be some changes in Notebook in f
 How to run this notebook:
 <br>
 1. Download the Dataset and the Code file.
+<br>
+2. Keep both of the files in same folder or change the directory of file in the code.
+<br>
+3. Run the codes (Make sure all the libraies are downloaded in your jupyter notebook's environment).
+<br>
+Note: Your specic results may vary given the stochastic nature of the learning algorithm, the evaluation procedure, or dierences in numerical precision. Consider running the example a few times and compare the average performance.
